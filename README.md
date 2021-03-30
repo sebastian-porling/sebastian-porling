@@ -1,9 +1,9 @@
 ## :point_right: About
 
-I add a lot emphasis on my creativity in problem solving, product use and
-personal projects. The biggest interests at the moment are in security and
+I add a lot of emphasis on my creativity in problem-solving, product-usage, and
+personal projects. The greatest interests at the moment are in security and
 user experience. I'm driven by exploring different perspectives to present the
-best product for end-users, owners and other parties.
+best product for end-users, owners, and other parties.
 
 
 ## :mortar_board: Education 
